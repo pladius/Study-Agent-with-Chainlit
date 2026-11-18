@@ -143,7 +143,7 @@ Keep your API key private and never upload your `.env` file to GitHub.
 ### 5. Run the application
 
 ```bash
-chainlit run bot.py
+chainlit run app.py
 ```
 
 The agent determines which tool to use based on the student's query and generates a response using the available information.
