@@ -50,34 +50,4 @@ The `get_exam_info` tool retrieves the examination date for a particular subject
 
 The agent determines which tool to use based on the student's query and generates a response using the available information.
 
-## 📁 Project Structure
-
-```text
-study-buddy-ai/
-│
-├── bot.py
-├── screenshots/
-│   ├── exam-tracking.png
-│   └── topic-explanation.png
-├── .env
-├── .gitignore
-└── README.md
 ```
-
-## 🔮 Future Improvements
-
-- Persistent conversation memory across sessions.
-- Automated study plans and revision schedules.
-- AI-generated quizzes and practice questions.
-- Personalized learning recommendations.
-- Additional educational tools and integrations.
-
-## 👨‍💻 Author
-
-**Hasan Abbas**
-
-Developed as a Python AI project exploring Large Language Models (LLMs), AI agents, tool calling, and conversational applications.
-
----
-
-*Study smarter, not harder.*
