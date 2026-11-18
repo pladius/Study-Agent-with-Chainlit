@@ -59,12 +59,10 @@ Study Buddy combines conversational AI with custom tools to provide educational 
 ### Exam Tracking
 Ask Study Buddy about an upcoming examination, and it retrieves the scheduled date and calculates how many days are remaining.
 
-![Exam Tracking](screenshots/exam-tracking.png)
 
 ### AI-Powered Learning
 Ask Study Buddy to explain an academic concept and receive structured explanations, key points, and easy-to-understand tables.
 
-![Topic Explanation](screenshots/topic-explanation.png)
 
 ## ✨ Features
 
