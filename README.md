@@ -49,5 +49,3 @@ The `wikipedia_search` tool retrieves information from Wikipedia when students a
 The `get_exam_info` tool retrieves the examination date for a particular subject and calculates the number of days remaining.
 
 The agent determines which tool to use based on the student's query and generates a response using the available information.
-
-```
